@@ -1,2 +1,5 @@
-# Funkin-1.1.0
-Woahhh funkin 1.1.0 source but uhh cool shits gets added I think
+# Friday Night Funkin
+
+This is the repository for Friday Night Funkin, a game originally made for Ludum Dare 47 "Stuck In a Loop".
+
+Play the Ludum Dare prototype here: https://ninja-muffin24.itch.io/friday-night-funkin
